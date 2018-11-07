@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="space_3">3dp</dimen>
+    <dimen name="space_5">5dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_25">25dp</dimen>
+    <dimen name="space_40">40dp</dimen>
+    <dimen name="space_30">30dp</dimen>
+    <dimen name="space_70">70dp</dimen>
+    <dimen name="space_140">140dp</dimen>
+    <dimen name="space_180">180dp</dimen>
+
+
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+
+    <!-- Application theme -->
+
+</resources>

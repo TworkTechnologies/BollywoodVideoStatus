@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Bollywood Video Status</string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-2693781332237304~3917370309</string>
+    <string name="banner_home_footer">ca-app-pub-2693781332237304/1365576192</string>
+    <string name="interstitial_full_screen">ca-app-pub-2693781332237304/8286207762</string>
+
+
+</resources>
